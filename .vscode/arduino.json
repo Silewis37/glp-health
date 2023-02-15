@@ -1,4 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "programmer": "arduino:arduinoisp"
+    "programmer": "arduino:arduinoisp",
+    "port": "COM11",
+    "sketch": "fsr_sensor.ino"
 }
